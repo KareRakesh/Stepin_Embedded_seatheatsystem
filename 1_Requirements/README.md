@@ -5,7 +5,7 @@
 * There is also the option of adjusting the temperature in the seat cushion and backrest areas according to personal perception of the temperature in each area.
 ## Benfits
 * Comfort while driving.
-*improves health like Blood pressure.
+* improves health like Blood pressure.
 * Reduced time.
 * Easy tracking of temparature
 ## SWOT ANALYSIS
