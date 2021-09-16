@@ -6,4 +6,4 @@ Present Heated seats are a standard feature on many vehicles today. It provide t
    <img src="https://code-inspector.com/public/badge/user/github/KareRakesh?style=light" alt="code inspector badge" />
   <img src="https://www.code-inspector.com/project/28778/score/svg"/>
   <img src="https://www.code-inspector.com/project/28778/status/svg"/>
-</a>
+</a> [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f6f087401614915bc0da0730679af90)](https://www.codacy.com/gh/KareRakesh/Stepin_Embedded_seatheatsystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KareRakesh/Stepin_Embedded_seatheatsystem&amp;utm_campaign=Badge_Grade)
